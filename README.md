@@ -1,3 +1,3 @@
 # Affirmation Photos App
 
-This app is shwing images to inspire for work and loving life
+This app is showing images that increase your self-worth and loving life
